@@ -119,7 +119,7 @@ func (t *Transcoder) Initialize(inputPath string, outputPath string) (error) {
     // Set transcoder configuration
 
     t.SetMediaFile(MediaFile)
-    t.SetConfiguration(configuration)
+    t.SetConfiguration(*configuration)
 
     return nil
 
