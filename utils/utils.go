@@ -3,7 +3,7 @@ package utils
 import (
 	"strings"
 	"strconv"
-	"github.com/xfrr/goffmpeg/models"
+	"github.com/KiboMibo/goffmpeg/models"
 	"runtime"
 )
 

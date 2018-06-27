@@ -1,9 +1,9 @@
 package transcoder
 
 import (
-  "github.com/xfrr/goffmpeg/models"
-  "github.com/xfrr/goffmpeg/ffmpeg"
-  "github.com/xfrr/goffmpeg/utils"
+  "github.com/KiboMibo/goffmpeg/models"
+  "github.com/KiboMibo/goffmpeg/ffmpeg"
+  "github.com/KiboMibo/goffmpeg/utils"
   "errors"
   "os"
   "os/exec"
